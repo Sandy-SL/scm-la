@@ -12,3 +12,5 @@ Vamos aprender e praticar conceitos básicos de Git e GitHub:
 6- Merge
 7- Tags
 8- Releases
+
+Objetivo: praticar conceitos basicos de Git e GitHub.
